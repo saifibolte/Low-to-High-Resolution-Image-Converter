@@ -72,7 +72,7 @@ This project is an **image super-resolution tool** that converts **low-resolutio
 
 ## Example
 Input (Low Resolution):  
-<img src="https://github.com/saifibolte/Low-to-High-Resolution-Image-Converter/blob/a7786fb2eb69fd56bed0c37a97eadf69ff189a59/LR/124.png>  
+<img src="https://github.com/saifibolte/Low-to-High-Resolution-Image-Converter/blob/a7786fb2eb69fd56bed0c37a97eadf69ff189a59/LR/124.png">  
 
 Output (High Resolution, 4x):  
 <img src="https://via.placeholder.com/600" width="600"/>  
