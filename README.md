@@ -56,7 +56,7 @@ This project is an **image super-resolution tool** that converts **low-resolutio
    ```
 
 3. Download pre-trained ESRGAN model weights and place them in the `models/` folder:
-   - [Download ESRGAN RRDBNet_x4.pth](https://github.com/xinntao/ESRGAN/tree/master/models)
+   - [Download ESRGAN RRDBNet_x4.pth](https://drive.google.com/file/d/1eoWN613w5pjL4Uyh5XnYMuBIXL52CZ4z/view?usp=sharing)
 
 ---
 
@@ -85,9 +85,3 @@ Output (High Resolution, 4x):
    ```python
    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
    ```
-
----
-
-## References
-- [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219)
-- [Official ESRGAN GitHub](https://github.com/xinntao/ESRGAN)
